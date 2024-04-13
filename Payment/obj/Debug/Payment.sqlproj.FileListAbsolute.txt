@@ -1,0 +1,10 @@
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\bin\Debug\Payment.dacpac
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\bin\Debug\Payment.dll
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\bin\Debug\Payment.pdb
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\Payment.sqlproj.AssemblyReference.cache
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\Model.xml
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\refactor.xml
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\postdeploy.sql
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\predeploy.sql
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\Payment.dll
+d:\Work\DataBase CICD\Payment-Database-CI-CD\Payment\obj\Debug\Payment.pdb

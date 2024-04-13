@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sASjJLpGdElju2ThNS+/OC97DjJypwwecThiG7I2dBT+Bly+/Lyc3H0CLDMLVUESe2ShcCBrtB1IRfPt1cQYrg==",
+  "success": true,
+  "projectFilePath": "d:\\Work\\DataBase CICD\\Payment-Database-CI-CD\\Payment\\Payment.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khannzoh\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\khannzoh\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
