@@ -11,3 +11,4 @@
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
   </Target>
 </Project>
+//Hello
